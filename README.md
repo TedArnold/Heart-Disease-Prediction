@@ -16,7 +16,7 @@ Here are some of the highlights of the visualizations i made.
 
 ![](boxplotages.png)
 
-![](cholestorollevel.png)
+![](choloestorollevel.png)
 
 ![](histogramgender.png)
 
